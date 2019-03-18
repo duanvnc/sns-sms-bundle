@@ -1,0 +1,17 @@
+{
+    "name": "wumbo/sns-sms-bundle",
+    "description": "Symfony 4: Send SMS via AWS SNS",
+    "type": "symfony-bundle",
+    "require": {
+        "php": "7.1",
+        "aws/aws-sdk-php": "3.90"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duan Le",
+            "email": "duanvnc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
